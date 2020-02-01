@@ -4,4 +4,5 @@ An app for facilitating/organizing protests and protesters, specifically for the
 
 ## How can I help?
 - Join us on [discord](https://discord.gg/SnTnF46)
-- Take a look at the [Wiki](../../wiki)
+- Take a look at the [wiki](../../wiki)
+- File or help with [issues](../../issues)
